@@ -1,0 +1,93 @@
+.logo
+{
+    background-color: rgb(255, 230, 0);
+}
+.pogo
+{
+    font-family: Roboto;
+    font-size: 25px;
+    margin: 0;
+    font-weight: bold;
+}
+body
+{
+    margin: 0;
+    padding: 0;
+}
+.sticky
+{
+    font-family: Roboto;
+    background-color: rgb(142, 147, 209);
+}
+.h
+{
+    font-family: Roboto;
+    margin: 0;
+    padding-top: 100px;
+    padding-left: 500px;
+    padding-bottom: 20px;
+}
+.text
+{
+    font-family: Roboto;
+    margin: 0;
+    padding-top:0px;
+    padding-left: 500px;
+    padding-bottom: 20px;
+}
+.button_button1
+{
+    font-family: Roboto;
+    font-weight: bold;
+    background-color: #00ac56;
+    color: white;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-right: 8px;
+    margin-left: 500px;
+    transition: opatity 0.15s;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+    vertical-align: top;
+}
+.button_button1:hover
+{
+    opacity: 0.8;
+}
+.button_button1:active
+{
+    opacity: 0.4;
+}
+.button_button2
+{
+    font-family: Roboto;
+    font-weight: bold;
+    background-color: #007fc9;
+    color: white;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-right: 8px;
+    margin-left: 20px;
+    transition: opatity 0.15s;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+    vertical-align: top;
+}
+.button_button2:hover
+{
+    opacity: 0.8;
+}
+.button_button2:active
+{
+    opacity: 0.4;
+}
+.fixed
+{
+    margin-bottom: 0;
+}
